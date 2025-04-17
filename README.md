@@ -1,12 +1,4 @@
 # 📄 CV Extractor
-📂 Cấu trúc thư mục
-CV_Extractor/
-├── requirements.txt
-├── .gitignore
-└── src/
-    ├── app.py              # File chính chạy Streamlit app
-    ├── extract_info.py     # Hàm trích xuất thông tin
-    ├── __init__.py
 
 **CV Extractor** là một ứng dụng trích xuất thông tin quan trọng từ file CV (PDF), bao gồm:
 - Họ tên
@@ -22,7 +14,7 @@ Giúp tiết kiệm thời gian xử lý hồ sơ tuyển dụng.
 👉 [Dùng thử ứng dụng tại đây](https://cv-extractor-ctzmei8jtxohsrpxzjxkyq.streamlit.app/)
 
 ## 🖼️ Giao diện demo
-<img src="https://i.imgur.com/7P2DfZl.png" alt="Demo UI" width="700">
+![image](https://github.com/user-attachments/assets/6d52bcc7-4e52-411a-ae16-2a40f6f1104c)
 
 ## 🧠 Công nghệ sử dụng
 - `Streamlit` - Giao diện web nhanh chóng cho Python
