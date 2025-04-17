@@ -1,0 +1,10 @@
+# Bỏ qua thư mục môi trường ảo
+venv/
+
+# Bỏ qua file bytecode Python
+__pycache__/
+*.pyc
+
+# Bỏ qua 2 file bạn không muốn đẩy lên
+src/gui.py
+src/main.py
